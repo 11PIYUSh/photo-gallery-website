@@ -40,7 +40,7 @@ body{
 }
 
 .moving_text li{
-  color:#01fe87;
+  color: blue;
   list-style: none;
   font-size: 60px;
   font-weight: 500;
