@@ -4,10 +4,10 @@ var btn = document.getElementsByClassName("btn");
 var gallery = document.getElementById("gallery");
 
 var images = new Array(
-  "/pic1.jpg",
-  "/pic2.jpg",
-  "/pic3.jpg",
-  "/pic4.jpg");
+  "/IMG_20220805_125424_591.jpg",
+  "/20211013_145050.jpg",
+  "/20210731_145531.png",
+  "/20211013_145050.jpg");
   
   for(let i=0; i<btn.length; i++){
     btn[i].onclick = function(){
